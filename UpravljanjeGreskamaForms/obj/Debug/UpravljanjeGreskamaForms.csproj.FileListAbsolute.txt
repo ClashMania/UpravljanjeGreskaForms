@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\bin\Debug\UpravljanjeGreskamaForms.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\bin\Debug\UpravljanjeGreskamaForms.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\bin\Debug\UpravljanjeGreskamaForms.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\UpravljanjeGreskamaForms\obj\Debug\UpravljanjeGreskamaForms.pdb
